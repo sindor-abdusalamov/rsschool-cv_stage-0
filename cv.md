@@ -11,3 +11,5 @@ I studied in courses like:
 * Skillbox
 * Udemy
 * ВебКадеми
+
+My English level is "Pre-Intermediate". But I have better experience in speaking than grammar.
