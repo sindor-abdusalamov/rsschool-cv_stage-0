@@ -1,0 +1,12 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;  
+}
+
+.profile-photo img {
+    width: 250px;
+}
+
+.logo {
+    width: 70px;
+}
